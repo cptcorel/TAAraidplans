@@ -1,5 +1,5 @@
 {
-  "nextId": 991,
+  "nextId": 1210,
   "arena": {
     "shape": "circle",
     "width": 600,
@@ -38,8 +38,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -64,
-          "y": -62,
+          "x": -78,
+          "y": -76,
           "id": 8
         },
         {
@@ -51,8 +51,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -98,
-          "y": -62,
+          "x": -81,
+          "y": -42,
           "id": 9
         },
         {
@@ -64,8 +64,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -61,
-          "y": 59,
+          "x": -79,
+          "y": 41,
           "id": 10
         },
         {
@@ -77,21 +77,21 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -99,
-          "y": 60,
+          "x": -80,
+          "y": 76,
           "id": 11
         },
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/BLM.png",
-          "name": "Black Mage",
+          "image": "/actor/RPR.png",
+          "name": "Reaper",
           "status": [],
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 63,
-          "y": 59,
+          "x": 79,
+          "y": 40,
           "id": 12
         },
         {
@@ -103,8 +103,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 100,
-          "y": 57,
+          "x": 80,
+          "y": 78,
           "id": 13
         },
         {
@@ -116,8 +116,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 101,
-          "y": -59,
+          "x": 80,
+          "y": -42,
           "id": 14
         },
         {
@@ -129,8 +129,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 62,
-          "y": -59,
+          "x": 79,
+          "y": -81,
           "id": 15
         },
         {
@@ -139,7 +139,7 @@
           "opacity": 45,
           "width": 82,
           "height": 45,
-          "rotation": 0,
+          "rotation": 88,
           "x": -80,
           "y": -60,
           "id": 16,
@@ -151,7 +151,7 @@
           "opacity": 45,
           "width": 82,
           "height": 45,
-          "rotation": 0,
+          "rotation": 90,
           "x": -80,
           "y": 60,
           "id": 17,
@@ -163,7 +163,7 @@
           "opacity": 45,
           "width": 82,
           "height": 45,
-          "rotation": 0,
+          "rotation": -90,
           "x": 80,
           "y": 60,
           "id": 18,
@@ -175,7 +175,7 @@
           "opacity": 45,
           "width": 82,
           "height": 45,
-          "rotation": 0,
+          "rotation": -90,
           "x": 80,
           "y": -60,
           "id": 19,
@@ -335,8 +335,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -64,
-          "y": -62,
+          "x": -80,
+          "y": -81,
           "id": 39
         },
         {
@@ -348,8 +348,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -98,
-          "y": -62,
+          "x": -77,
+          "y": -41,
           "id": 40
         },
         {
@@ -361,8 +361,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -61,
-          "y": 59,
+          "x": -79,
+          "y": 39,
           "id": 41
         },
         {
@@ -374,8 +374,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -99,
-          "y": 60,
+          "x": -82,
+          "y": 74,
           "id": 42
         },
         {
@@ -387,8 +387,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 63,
-          "y": 59,
+          "x": 80,
+          "y": 42,
           "id": 43
         },
         {
@@ -400,8 +400,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 100,
-          "y": 57,
+          "x": 80,
+          "y": 78,
           "id": 44
         },
         {
@@ -413,8 +413,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 101,
-          "y": -59,
+          "x": 80,
+          "y": -47,
           "id": 45
         },
         {
@@ -426,8 +426,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 62,
-          "y": -59,
+          "x": 80,
+          "y": -81,
           "id": 46
         },
         {
@@ -436,7 +436,7 @@
           "opacity": 45,
           "width": 82,
           "height": 45,
-          "rotation": 0,
+          "rotation": 90,
           "x": -80,
           "y": -60,
           "id": 47,
@@ -448,7 +448,7 @@
           "opacity": 45,
           "width": 82,
           "height": 45,
-          "rotation": 0,
+          "rotation": 90,
           "x": -80,
           "y": 60,
           "id": 48,
@@ -460,7 +460,7 @@
           "opacity": 45,
           "width": 82,
           "height": 45,
-          "rotation": 0,
+          "rotation": 90,
           "x": 80,
           "y": 60,
           "id": 49,
@@ -472,7 +472,7 @@
           "opacity": 45,
           "width": 82,
           "height": 45,
-          "rotation": 0,
+          "rotation": 90,
           "x": 80,
           "y": -60,
           "id": 50,
@@ -499,8 +499,8 @@
           "radius": 25,
           "coneAngle": 45,
           "rotation": 0,
-          "x": -100,
-          "y": 86,
+          "x": -118,
+          "y": 62,
           "id": 53
         },
         {
@@ -510,8 +510,8 @@
           "radius": 25,
           "coneAngle": 45,
           "rotation": 0,
-          "x": -61,
-          "y": 88,
+          "x": -119,
+          "y": 21,
           "id": 54
         },
         {
@@ -520,8 +520,8 @@
           "color": "#fc972b",
           "opacity": 35,
           "radius": 15,
-          "x": 62,
-          "y": 99,
+          "x": 118,
+          "y": 42,
           "id": 55
         },
         {
@@ -530,8 +530,8 @@
           "color": "#fc972b",
           "opacity": 35,
           "radius": 15,
-          "x": -99,
-          "y": -19,
+          "x": -121,
+          "y": -37,
           "id": 56
         },
         {
@@ -539,8 +539,8 @@
           "color": "#fc972b",
           "opacity": 35,
           "radius": 15,
-          "x": -64,
-          "y": -19,
+          "x": -115,
+          "y": -78,
           "id": 57
         },
         {
@@ -548,8 +548,8 @@
           "color": "#fc972b",
           "opacity": 35,
           "radius": 15,
-          "x": 60,
-          "y": -21,
+          "x": 124,
+          "y": -44,
           "id": 58
         },
         {
@@ -557,8 +557,8 @@
           "color": "#fc972b",
           "opacity": 35,
           "radius": 15,
-          "x": 101,
-          "y": -20,
+          "x": 124,
+          "y": -80,
           "id": 59
         },
         {
@@ -568,8 +568,8 @@
           "radius": 25,
           "coneAngle": 45,
           "rotation": 0,
-          "x": 102,
-          "y": 89,
+          "x": 120,
+          "y": 70,
           "id": 60
         },
         {
@@ -756,8 +756,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -2,
-          "y": -43,
+          "x": 44,
+          "y": 2,
           "id": 62,
           "positionParentId": 79
         },
@@ -770,8 +770,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 1,
-          "y": -43,
+          "x": 43,
+          "y": -6,
           "id": 63,
           "positionParentId": 78
         },
@@ -784,8 +784,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -61,
-          "y": 59,
+          "x": -79,
+          "y": 38,
           "id": 64
         },
         {
@@ -797,8 +797,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -99,
-          "y": 60,
+          "x": -81,
+          "y": 76,
           "id": 65
         },
         {
@@ -810,8 +810,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 1,
-          "y": -40,
+          "x": -45,
+          "y": 1,
           "id": 66,
           "positionParentId": 77
         },
@@ -824,8 +824,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -2,
-          "y": -32,
+          "x": -39,
+          "y": 12,
           "id": 67,
           "positionParentId": 82
         },
@@ -838,8 +838,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 101,
-          "y": -59,
+          "x": 81,
+          "y": -39,
           "id": 68
         },
         {
@@ -851,8 +851,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 62,
-          "y": -59,
+          "x": 80,
+          "y": -79,
           "id": 69
         },
         {
@@ -861,7 +861,7 @@
           "opacity": 45,
           "width": 82,
           "height": 45,
-          "rotation": 0,
+          "rotation": 90,
           "x": -80,
           "y": -60,
           "id": 70,
@@ -873,7 +873,7 @@
           "opacity": 45,
           "width": 82,
           "height": 45,
-          "rotation": 0,
+          "rotation": 90,
           "x": -80,
           "y": 60,
           "id": 71,
@@ -885,7 +885,7 @@
           "opacity": 45,
           "width": 82,
           "height": 45,
-          "rotation": 0,
+          "rotation": 90,
           "x": 80,
           "y": 60,
           "id": 72,
@@ -897,7 +897,7 @@
           "opacity": 45,
           "width": 82,
           "height": 45,
-          "rotation": 0,
+          "rotation": 90,
           "x": 80,
           "y": -60,
           "id": 73,
@@ -913,8 +913,8 @@
           "opacity": 100,
           "rotation": 0,
           "text": "In this case, the WAR / SCH\nand the BLM / BRD take\nTowers 1 2 3 & 8",
-          "x": -1,
-          "y": 224,
+          "x": 0,
+          "y": 257,
           "id": 74
         },
         {
@@ -924,8 +924,8 @@
           "radius": 25,
           "coneAngle": 45,
           "rotation": 0,
-          "x": -100,
-          "y": 86,
+          "x": -125,
+          "y": 67,
           "id": 75
         },
         {
@@ -935,8 +935,8 @@
           "radius": 25,
           "coneAngle": 45,
           "rotation": 0,
-          "x": -61,
-          "y": 88,
+          "x": -125,
+          "y": 22,
           "id": 76
         },
         {
@@ -945,8 +945,8 @@
           "color": "#ffc800",
           "opacity": 35,
           "radius": 15,
-          "x": 62,
-          "y": 99,
+          "x": 122,
+          "y": 34,
           "id": 77
         },
         {
@@ -955,8 +955,8 @@
           "color": "#ffc800",
           "opacity": 35,
           "radius": 15,
-          "x": -99,
-          "y": -19,
+          "x": -126,
+          "y": -38,
           "id": 78
         },
         {
@@ -964,8 +964,8 @@
           "color": "#ffc800",
           "opacity": 35,
           "radius": 15,
-          "x": -62,
-          "y": -19,
+          "x": -126,
+          "y": -84,
           "id": 79
         },
         {
@@ -973,8 +973,8 @@
           "color": "#00d5e8",
           "opacity": 35,
           "radius": 15,
-          "x": 60,
-          "y": -21,
+          "x": 129,
+          "y": -81,
           "id": 80
         },
         {
@@ -982,8 +982,8 @@
           "color": "#00d5e8",
           "opacity": 35,
           "radius": 15,
-          "x": 101,
-          "y": -20,
+          "x": 127,
+          "y": -37,
           "id": 81
         },
         {
@@ -993,8 +993,8 @@
           "radius": 25,
           "coneAngle": 45,
           "rotation": 0,
-          "x": 102,
-          "y": 89,
+          "x": 120,
+          "y": 61,
           "id": 82
         },
         {
@@ -1395,8 +1395,8 @@
           "opacity": 100,
           "rotation": 0,
           "text": "2 towers spawn in this formation, this is new \"south\"",
-          "x": 2,
-          "y": 241,
+          "x": 5,
+          "y": 228,
           "id": 84
         },
         {
@@ -1409,8 +1409,8 @@
           "opacity": 100,
           "rotation": 0,
           "text": "The Stack Pair with Cone goes west / left tower\nThe pair with Defamation goes east / right tower",
-          "x": 8,
-          "y": 185,
+          "x": 4,
+          "y": 170,
           "id": 85
         },
         {
@@ -1475,8 +1475,8 @@
           "color": "#ffc800",
           "opacity": 35,
           "radius": 15,
-          "x": -58,
-          "y": -12,
+          "x": -71,
+          "y": -38,
           "id": 94
         },
         {
@@ -1505,8 +1505,8 @@
           "radius": 25,
           "coneAngle": 45,
           "rotation": 0,
-          "x": -108,
-          "y": -24,
+          "x": -117,
+          "y": -105,
           "id": 97
         },
         {
@@ -1519,7 +1519,7 @@
           "height": 32,
           "rotation": 0,
           "x": -145,
-          "y": -29,
+          "y": -158,
           "id": 98
         },
         {
@@ -2053,7 +2053,7 @@
           "height": 32,
           "rotation": 0,
           "x": -79,
-          "y": -34,
+          "y": -39,
           "id": 111,
           "pinned": false
         },
@@ -2066,8 +2066,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -134,
-          "y": -62,
+          "x": -120,
+          "y": -118,
           "id": 112,
           "pinned": false
         },
@@ -2080,8 +2080,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -178,
-          "y": -61,
+          "x": -144,
+          "y": -155,
           "id": 117
         },
         {
@@ -2093,8 +2093,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -54,
-          "y": -29,
+          "x": -52,
+          "y": -21,
           "id": 118
         },
         {
@@ -2133,8 +2133,8 @@
           "opacity": 100,
           "rotation": 0,
           "text": "The other 4 players help resolve the shapes\nHealer bait cone, tank in left stack\ndps in right stack\nSpots are alway static",
-          "x": -91,
-          "y": -268,
+          "x": -40,
+          "y": -279,
           "id": 121
         },
         {
@@ -3718,6 +3718,16 @@
           "pinned": true
         },
         {
+          "type": "tether",
+          "tether": "close",
+          "startId": 283,
+          "endId": 280,
+          "width": 6,
+          "color": "#00e622",
+          "opacity": 80,
+          "id": 991
+        },
+        {
           "opacity": 100,
           "type": "party",
           "image": "/actor/WAR.png",
@@ -3730,16 +3740,6 @@
           "y": -126,
           "id": 280,
           "pinned": false
-        },
-        {
-          "type": "tether",
-          "tether": "close",
-          "startId": 282,
-          "endId": 281,
-          "width": 6,
-          "color": "#ffffff",
-          "opacity": 80,
-          "id": 316
         },
         {
           "opacity": 100,
@@ -3778,8 +3778,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -112,
-          "y": -48,
+          "x": -83,
+          "y": -136,
           "id": 283,
           "pinned": false
         },
@@ -4128,9 +4128,9 @@
           "color": "#ffc800",
           "opacity": 100,
           "rotation": 0,
-          "text": "We need 1 of each shape in a tower\nIn case doubles,\nThose who had stack swap\nhere the BLM & SGE",
+          "text": "We need 1 of each shape in a tower\nIn case doubles,\nThe south most person in the tower adjusts.\nHere the BRD and WAR",
           "x": -2,
-          "y": 194,
+          "y": 220,
           "id": 315
         },
         {
@@ -4294,8 +4294,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 110,
-          "y": -143,
+          "x": -84,
+          "y": -137,
           "id": 320,
           "pinned": false
         },
@@ -4308,8 +4308,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -103,
-          "y": -143,
+          "x": 90,
+          "y": -137,
           "id": 322,
           "pinned": false
         },
@@ -4322,8 +4322,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 61,
-          "y": -48,
+          "x": -76,
+          "y": -36,
           "id": 323,
           "pinned": false
         },
@@ -4336,8 +4336,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -59,
-          "y": -51,
+          "x": 77,
+          "y": -40,
           "id": 324,
           "pinned": false
         },
@@ -4373,8 +4373,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -139,
-          "y": -25,
+          "x": -152,
+          "y": -8,
           "id": 327
         },
         {
@@ -4399,8 +4399,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 145,
-          "y": -30,
+          "x": 156,
+          "y": -6,
           "id": 329
         },
         {
@@ -4874,6 +4874,20 @@
         {
           "opacity": 100,
           "type": "party",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "rotation": 0,
+          "x": -95,
+          "y": -139,
+          "id": 361,
+          "pinned": false
+        },
+        {
+          "opacity": 100,
+          "type": "party",
           "image": "/actor/WAR.png",
           "name": "Warrior",
           "status": [],
@@ -4882,28 +4896,14 @@
           "rotation": 0,
           "x": 94,
           "y": -141,
-          "id": 361,
-          "pinned": false
-        },
-        {
-          "opacity": 100,
-          "type": "party",
-          "image": "/actor/SGE.png",
-          "name": "Sage",
-          "status": [],
-          "width": 32,
-          "height": 32,
-          "rotation": 0,
-          "x": -93,
-          "y": -144,
           "id": 362,
           "pinned": false
         },
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/BLM.png",
-          "name": "Black Mage",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
           "status": [],
           "width": 32,
           "height": 32,
@@ -4916,8 +4916,8 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/BRD.png",
-          "name": "Bard",
+          "image": "/actor/BLM.png",
+          "name": "Black Mage",
           "status": [],
           "width": 32,
           "height": 32,
@@ -4959,8 +4959,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -167,
-          "y": -30,
+          "x": -170,
+          "y": -6,
           "id": 367
         },
         {
@@ -4985,8 +4985,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 149,
-          "y": -40,
+          "x": 168,
+          "y": -3,
           "id": 369
         },
         {
@@ -5528,8 +5528,8 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/WAR.png",
-          "name": "Warrior",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
           "status": [],
           "width": 32,
           "height": 32,
@@ -5542,8 +5542,8 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/SGE.png",
-          "name": "Sage",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
           "status": [],
           "width": 32,
           "height": 32,
@@ -5556,8 +5556,8 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/BLM.png",
-          "name": "Black Mage",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
           "status": [],
           "width": 32,
           "height": 32,
@@ -5570,8 +5570,8 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/BRD.png",
-          "name": "Bard",
+          "image": "/actor/BLM.png",
+          "name": "Black Mage",
           "status": [],
           "width": 32,
           "height": 32,
@@ -5920,34 +5920,10 @@
           "color": "#ffc800",
           "opacity": 100,
           "rotation": 0,
-          "text": "We need 1 stack each tower,\nStack who had the previous cone flexes,\nhere the BLM moves across",
+          "text": "We need 1 stack each tower,\nAnd since south adjusts, SGE moves\nacross.",
           "x": 4,
           "y": 203,
           "id": 447
-        },
-        {
-          "type": "arrow",
-          "color": "#ffffff",
-          "opacity": 100,
-          "width": 30,
-          "length": 100,
-          "arrowEnd": true,
-          "rotation": -90,
-          "x": 55,
-          "y": -49,
-          "id": 448
-        },
-        {
-          "type": "arrow",
-          "color": "#ffffff",
-          "opacity": 100,
-          "width": 30,
-          "length": 165,
-          "arrowEnd": true,
-          "rotation": 90,
-          "x": -76,
-          "y": -136,
-          "id": 449
         },
         {
           "stroke": "#40352c",
@@ -5958,7 +5934,7 @@
           "color": "#ffc800",
           "opacity": 100,
           "rotation": 0,
-          "text": "We also want cone left, and defamation right\nso here the SGE moves across",
+          "text": "We also want cone left, and defamation right\nso here the WAR moves across",
           "x": 9,
           "y": -199,
           "id": 450
@@ -6096,6 +6072,30 @@
           "x": -201,
           "y": 3,
           "id": 950
+        },
+        {
+          "type": "arrow",
+          "color": "#ffffff",
+          "opacity": 100,
+          "width": 30,
+          "length": 181,
+          "arrowEnd": true,
+          "rotation": -65,
+          "x": 94,
+          "y": -145,
+          "id": 992
+        },
+        {
+          "type": "arrow",
+          "color": "#ffffff",
+          "opacity": 100,
+          "width": 30,
+          "length": 174,
+          "arrowEnd": true,
+          "rotation": 87,
+          "x": -90,
+          "y": -129,
+          "id": 993
         }
       ]
     },
@@ -6737,8 +6737,8 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/SGE.png",
-          "name": "Sage",
+          "image": "/actor/WAR.png",
+          "name": "Warrior",
           "status": [],
           "width": 32,
           "height": 32,
@@ -6751,8 +6751,8 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/WAR.png",
-          "name": "Warrior",
+          "image": "/actor/BRD.png",
+          "name": "Bard",
           "status": [],
           "width": 32,
           "height": 32,
@@ -6765,28 +6765,28 @@
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/BLM.png",
-          "name": "Black Mage",
+          "image": "/actor/SGE.png",
+          "name": "Sage",
           "status": [],
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -24,
-          "y": -24,
+          "x": -1,
+          "y": -30,
           "id": 499,
           "positionParentId": 501
         },
         {
           "opacity": 100,
           "type": "party",
-          "image": "/actor/BRD.png",
-          "name": "Bard",
+          "image": "/actor/BLM.png",
+          "name": "Black Mage",
           "status": [],
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -133,
-          "y": -70,
+          "x": -100,
+          "y": -114,
           "id": 500,
           "pinned": false
         },
@@ -6796,8 +6796,8 @@
           "color": "#ffc800",
           "opacity": 35,
           "radius": 15,
-          "x": -59,
-          "y": -10,
+          "x": -76,
+          "y": -38,
           "id": 501
         },
         {
@@ -6839,8 +6839,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -171,
-          "y": -73,
+          "x": -122,
+          "y": -172,
           "id": 505
         },
         {
@@ -6852,8 +6852,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -34,
-          "y": -37,
+          "x": -51,
+          "y": -22,
           "id": 506
         },
         {
@@ -7357,8 +7357,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 129,
-          "y": -28,
+          "x": 156,
+          "y": -5,
           "id": 547,
           "pinned": false
         },
@@ -7385,8 +7385,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -127,
-          "y": -19,
+          "x": -155,
+          "y": -2,
           "id": 550,
           "pinned": false
         },
@@ -7413,8 +7413,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -53,
-          "y": -50,
+          "x": -78,
+          "y": -34,
           "id": 554
         },
         {
@@ -7426,8 +7426,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 58,
-          "y": -51,
+          "x": 73,
+          "y": -34,
           "id": 555
         },
         {
@@ -7729,8 +7729,8 @@
           "radius": 25,
           "coneAngle": 45,
           "rotation": 0,
-          "x": 59,
-          "y": -30,
+          "x": 74,
+          "y": -13,
           "id": 581
         },
         {
@@ -7740,8 +7740,8 @@
           "radius": 25,
           "coneAngle": 45,
           "rotation": 0,
-          "x": -53,
-          "y": -30,
+          "x": -78,
+          "y": -14,
           "id": 582
         },
         {
@@ -7767,8 +7767,8 @@
           "color": "#ffc800",
           "opacity": 35,
           "radius": 15,
-          "x": -128,
-          "y": 14,
+          "x": -154,
+          "y": 31,
           "id": 670
         },
         {
@@ -7787,8 +7787,8 @@
           "radius": 25,
           "coneAngle": 45,
           "rotation": 0,
-          "x": 130,
-          "y": -9,
+          "x": 157,
+          "y": 14,
           "id": 672,
           "pinned": false
         },
@@ -7964,8 +7964,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 147,
-          "y": -29,
+          "x": 159,
+          "y": -6,
           "id": 588,
           "pinned": false
         },
@@ -7992,8 +7992,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -141,
-          "y": -26,
+          "x": -157,
+          "y": -5,
           "id": 590,
           "pinned": false
         },
@@ -8020,8 +8020,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -53,
-          "y": -50,
+          "x": -75,
+          "y": -35,
           "id": 592
         },
         {
@@ -8033,8 +8033,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 58,
-          "y": -51,
+          "x": 73,
+          "y": -38,
           "id": 593
         },
         {
@@ -8411,8 +8411,8 @@
           "color": "#8b57fa",
           "opacity": 35,
           "radius": 60,
-          "x": -56.25,
-          "y": -53.75,
+          "x": -73,
+          "y": -34,
           "id": 624
         },
         {
@@ -8420,8 +8420,8 @@
           "color": "#8b57fa",
           "opacity": 35,
           "radius": 60,
-          "x": 63.75,
-          "y": -54.75,
+          "x": 73,
+          "y": -38,
           "id": 625
         },
         {
@@ -9167,6 +9167,1097 @@
           "id": 990
         }
       ]
+    },
+    {
+      "objects": [
+        {
+          "type": "tower",
+          "color": "#bae3ff",
+          "opacity": 35,
+          "radius": 90,
+          "count": 2,
+          "x": 173,
+          "y": -235,
+          "id": 1045
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 30,
+          "x": -17,
+          "y": -73,
+          "id": 1048,
+          "positionParentId": 1045
+        },
+        {
+          "type": "cone",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 45,
+          "coneAngle": 45,
+          "rotation": 0,
+          "x": 5,
+          "y": 106,
+          "id": 1062,
+          "positionParentId": 1045,
+          "pinned": false
+        },
+        {
+          "type": "tower",
+          "color": "#bae3ff",
+          "opacity": 35,
+          "radius": 90,
+          "count": 2,
+          "x": -174,
+          "y": -228,
+          "id": 1064
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 30,
+          "x": 14,
+          "y": -78,
+          "id": 1065,
+          "positionParentId": 1064
+        },
+        {
+          "type": "cone",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 55,
+          "coneAngle": 45,
+          "rotation": 0,
+          "x": -8,
+          "y": 93,
+          "id": 1066,
+          "positionParentId": 1064,
+          "pinned": false
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#fc972b",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "8",
+          "x": 67,
+          "y": -13,
+          "id": 1079,
+          "positionParentId": 1074
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "-",
+          "x": 49,
+          "y": -13,
+          "id": 1080,
+          "positionParentId": 1074
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "6",
+          "x": 31,
+          "y": -13,
+          "id": 1078,
+          "positionParentId": 1074
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "-",
+          "x": -58,
+          "y": -13,
+          "id": 1077,
+          "positionParentId": 1074
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "4",
+          "x": -40,
+          "y": -13,
+          "id": 1076,
+          "positionParentId": 1074
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#fc972b",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "2",
+          "x": -76,
+          "y": -13,
+          "id": 1075,
+          "positionParentId": 1074
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "left",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "EVEN TOWERS\n",
+          "x": 0,
+          "y": -64,
+          "id": 1074
+        },
+        {
+          "type": "donut",
+          "color": "#ff0000",
+          "opacity": 35,
+          "innerRadius": 244,
+          "radius": 247,
+          "x": -4,
+          "y": -26,
+          "id": 1088
+        },
+        {
+          "type": "donut",
+          "color": "#ff0000",
+          "opacity": 35,
+          "innerRadius": 220,
+          "radius": 220,
+          "x": -4,
+          "y": -25,
+          "id": 1089
+        },
+        {
+          "type": "rect",
+          "color": "#292929",
+          "opacity": 100,
+          "width": 814.5,
+          "height": 421,
+          "rotation": 0,
+          "x": 2,
+          "y": 204.75,
+          "id": 1082
+        },
+        {
+          "type": "tower",
+          "color": "#bae3ff",
+          "opacity": 35,
+          "radius": 90,
+          "count": 2,
+          "x": -178,
+          "y": 182,
+          "id": 997
+        },
+        {
+          "count": 1,
+          "type": "stack",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 110,
+          "x": 20,
+          "y": 34,
+          "id": 1043,
+          "positionParentId": 997,
+          "pinned": false
+        },
+        {
+          "type": "cone",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 92,
+          "coneAngle": 45,
+          "rotation": 180,
+          "x": -7,
+          "y": -62,
+          "id": 1067,
+          "pinned": false,
+          "positionParentId": 997
+        },
+        {
+          "type": "tower",
+          "color": "#bae3ff",
+          "opacity": 35,
+          "radius": 90,
+          "count": 2,
+          "x": 179,
+          "y": 170,
+          "id": 1044
+        },
+        {
+          "count": 1,
+          "type": "stack",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 110,
+          "x": -16,
+          "y": 90,
+          "id": 1068,
+          "pinned": false,
+          "positionParentId": 1044
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 30,
+          "x": 33,
+          "y": -62,
+          "id": 1069,
+          "positionParentId": 1044
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "5 - 7",
+          "x": 60,
+          "y": -17,
+          "id": 1073,
+          "positionParentId": 1071
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#fc972b",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "1 - 3",
+          "x": -58,
+          "y": -17,
+          "id": 1072,
+          "positionParentId": 1071
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "left",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "ODD TOWERS\n",
+          "x": -3,
+          "y": 355,
+          "id": 1071
+        },
+        {
+          "type": "donut",
+          "color": "#ff0000",
+          "opacity": 35,
+          "innerRadius": 244,
+          "radius": 247,
+          "x": 5,
+          "y": 414,
+          "id": 1086
+        },
+        {
+          "type": "donut",
+          "color": "#ff0000",
+          "opacity": 35,
+          "innerRadius": 220,
+          "radius": 220,
+          "x": 5,
+          "y": 415,
+          "id": 1087
+        },
+        {
+          "type": "party",
+          "image": "/actor/any.png",
+          "name": "Any player",
+          "status": [],
+          "width": 30,
+          "height": 30,
+          "opacity": 100,
+          "rotation": 0,
+          "x": 177,
+          "y": -152,
+          "id": 1090
+        },
+        {
+          "type": "party",
+          "image": "/actor/any.png",
+          "name": "Any player",
+          "status": [],
+          "width": 30,
+          "height": 30,
+          "opacity": 100,
+          "rotation": 0,
+          "x": -182,
+          "y": -152,
+          "id": 1091
+        },
+        {
+          "type": "party",
+          "image": "/actor/any.png",
+          "name": "Any player",
+          "status": [],
+          "width": 30,
+          "height": 30,
+          "opacity": 100,
+          "rotation": 0,
+          "x": 155,
+          "y": -308,
+          "id": 1092
+        },
+        {
+          "type": "party",
+          "image": "/actor/any.png",
+          "name": "Any player",
+          "status": [],
+          "width": 30,
+          "height": 30,
+          "opacity": 100,
+          "rotation": 0,
+          "x": -160,
+          "y": -301,
+          "id": 1093
+        },
+        {
+          "type": "party",
+          "image": "/actor/any.png",
+          "name": "Any player",
+          "status": [],
+          "width": 30,
+          "height": 30,
+          "opacity": 100,
+          "rotation": 0,
+          "x": -156,
+          "y": 218,
+          "id": 1094
+        },
+        {
+          "type": "party",
+          "image": "/actor/any.png",
+          "name": "Any player",
+          "status": [],
+          "width": 30,
+          "height": 30,
+          "opacity": 100,
+          "rotation": 0,
+          "x": -186,
+          "y": 123,
+          "id": 1095
+        },
+        {
+          "type": "party",
+          "image": "/actor/any.png",
+          "name": "Any player",
+          "status": [],
+          "width": 30,
+          "height": 30,
+          "opacity": 100,
+          "rotation": 0,
+          "x": 162,
+          "y": 252,
+          "id": 1096
+        },
+        {
+          "type": "party",
+          "image": "/actor/any.png",
+          "name": "Any player",
+          "status": [],
+          "width": 30,
+          "height": 30,
+          "opacity": 100,
+          "rotation": 0,
+          "x": 212,
+          "y": 110,
+          "id": 1097
+        },
+        {
+          "type": "party",
+          "image": "/actor/healer.png",
+          "name": "Healer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": -186,
+          "y": 60,
+          "id": 1099
+        },
+        {
+          "type": "party",
+          "image": "/actor/tank.png",
+          "name": "Tank",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": -156,
+          "y": 293,
+          "id": 1100
+        },
+        {
+          "type": "party",
+          "image": "/actor/dps.png",
+          "name": "DPS",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": 126,
+          "y": 268,
+          "id": 1101
+        },
+        {
+          "type": "party",
+          "image": "/actor/dps.png",
+          "name": "DPS",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": 165,
+          "y": 287,
+          "id": 1102
+        },
+        {
+          "type": "marker",
+          "name": "Waymark A",
+          "image": "/marker/waymark_a.png",
+          "shape": "circle",
+          "color": "#f13b66",
+          "opacity": 100,
+          "width": 70,
+          "height": 70,
+          "rotation": 0,
+          "x": -355,
+          "y": -33,
+          "id": 1103
+        },
+        {
+          "type": "party",
+          "image": "/actor/any.png",
+          "name": "Any player",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": -295,
+          "y": -35,
+          "id": 1104
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 1",
+          "image": "/marker/waymark_1.png",
+          "shape": "square",
+          "color": "#f13b66",
+          "opacity": 100,
+          "width": 61.49999999999999,
+          "height": 61.49999999999999,
+          "rotation": 0,
+          "x": -356,
+          "y": -119,
+          "id": 1106
+        },
+        {
+          "type": "party",
+          "image": "/actor/any.png",
+          "name": "Any player",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": -387,
+          "y": -88,
+          "id": 1107
+        },
+        {
+          "type": "party",
+          "image": "/actor/any.png",
+          "name": "Any player",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": 276,
+          "y": -40,
+          "id": 1112
+        },
+        {
+          "type": "party",
+          "image": "/actor/any.png",
+          "name": "Any player",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": 358,
+          "y": -106,
+          "id": 1113
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 2",
+          "image": "/marker/waymark_2.png",
+          "shape": "square",
+          "color": "#e1dc5d",
+          "opacity": 100,
+          "width": 62,
+          "height": 62,
+          "rotation": 0,
+          "x": 334,
+          "y": -131,
+          "id": 1114
+        },
+        {
+          "type": "marker",
+          "name": "Waymark C",
+          "image": "/marker/waymark_c.png",
+          "shape": "circle",
+          "color": "#65b3ea",
+          "opacity": 100,
+          "width": 66.5,
+          "height": 66.5,
+          "rotation": 0,
+          "x": 337,
+          "y": -39,
+          "id": 1115
+        }
+      ],
+      "customArena": {
+        "shape": "none",
+        "width": 600,
+        "height": 600,
+        "padding": 120,
+        "grid": {
+          "type": "none"
+        }
+      }
+    },
+    {
+      "objects": [
+        {
+          "type": "party",
+          "image": "/actor/support.png",
+          "name": "Support",
+          "status": [],
+          "width": 45.5,
+          "height": 45.5,
+          "opacity": 100,
+          "rotation": 0,
+          "x": -175,
+          "y": 243,
+          "id": 1163
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "5 - 7",
+          "x": 60,
+          "y": -17,
+          "id": 1166,
+          "positionParentId": 1168
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#fc972b",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "1 - 3",
+          "x": -58,
+          "y": -17,
+          "id": 1167,
+          "positionParentId": 1168
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "left",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "ODD TOWERS\n",
+          "x": -322,
+          "y": 302,
+          "id": 1168
+        },
+        {
+          "type": "text",
+          "align": "left",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "Stack pairs go into tower;\nCone and Defamation adjust as needed\nCone west tower, Defamation East",
+          "stroke": "#40352c",
+          "x": 67,
+          "y": 377,
+          "id": 1173
+        },
+        {
+          "type": "text",
+          "align": "left",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "Pairs with double stack / cone are helpers;\nHealer bait cone south, \nTank joins stack north of west tower\nDps joins stack north of east tower",
+          "stroke": "#40352c",
+          "x": 85,
+          "y": 238,
+          "id": 1174
+        },
+        {
+          "type": "party",
+          "image": "/actor/dps.png",
+          "name": "DPS",
+          "status": [],
+          "width": 46,
+          "height": 46,
+          "opacity": 100,
+          "rotation": 0,
+          "x": -175,
+          "y": 193,
+          "id": 1175
+        },
+        {
+          "type": "stack",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 20,
+          "count": 1,
+          "x": -178,
+          "y": 403,
+          "id": 1176
+        },
+        {
+          "type": "cone",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 32,
+          "coneAngle": 90,
+          "rotation": 0,
+          "x": -178,
+          "y": 324,
+          "id": 1177
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 20,
+          "x": 257,
+          "y": 337,
+          "id": 1178
+        },
+        {
+          "type": "line",
+          "color": "#fc972b",
+          "opacity": 35,
+          "width": 10,
+          "length": 820,
+          "rotation": 90,
+          "x": -410,
+          "y": 124,
+          "id": 1179
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#fc972b",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "8",
+          "x": 67,
+          "y": -13,
+          "id": 1180,
+          "positionParentId": 1186
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "-",
+          "x": 49,
+          "y": -13,
+          "id": 1181,
+          "positionParentId": 1186
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "6",
+          "x": 31,
+          "y": -13,
+          "id": 1182,
+          "positionParentId": 1186
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "-",
+          "x": -58,
+          "y": -13,
+          "id": 1183,
+          "positionParentId": 1186
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#00d5e8",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "4",
+          "x": -40,
+          "y": -13,
+          "id": 1184,
+          "positionParentId": 1186
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "center",
+          "fontSize": 25,
+          "color": "#fc972b",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "2",
+          "x": -76,
+          "y": -13,
+          "id": 1185,
+          "positionParentId": 1186
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "left",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "EVEN TOWERS\n",
+          "x": -315,
+          "y": -227,
+          "id": 1186
+        },
+        {
+          "stroke": "#40352c",
+          "style": "outline",
+          "type": "text",
+          "align": "left",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "rotation": 0,
+          "text": "ADJUST",
+          "x": -313,
+          "y": 31,
+          "id": 1187
+        },
+        {
+          "type": "text",
+          "align": "left",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "New shape is given\nIf same symbol for both in tower pair,\nSouth most person adjusts.\n\nPairing at beginning of Forsaken\nMelee/Tank should be south in pair.",
+          "stroke": "#40352c",
+          "x": 82,
+          "y": 26,
+          "id": 1189
+        },
+        {
+          "type": "cone",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 32,
+          "coneAngle": 90,
+          "rotation": 0,
+          "x": -209,
+          "y": 55,
+          "id": 1190
+        },
+        {
+          "type": "cone",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 32,
+          "coneAngle": 90,
+          "rotation": 0,
+          "x": -209,
+          "y": 2,
+          "id": 1192
+        },
+        {
+          "type": "arrow",
+          "color": "#ffffff",
+          "opacity": 100,
+          "width": 30,
+          "length": 46,
+          "arrowEnd": true,
+          "rotation": 90,
+          "x": -180,
+          "y": 16,
+          "id": 1193
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 20,
+          "x": 317,
+          "y": 74,
+          "id": 1194
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 20,
+          "x": 316,
+          "y": 8,
+          "id": 1195
+        },
+        {
+          "type": "arrow",
+          "color": "#ffffff",
+          "opacity": 100,
+          "width": 30,
+          "length": 46,
+          "arrowEnd": true,
+          "rotation": 270,
+          "x": 289,
+          "y": 7,
+          "id": 1196
+        },
+        {
+          "type": "line",
+          "color": "#fc972b",
+          "opacity": 35,
+          "width": 10,
+          "length": 820,
+          "rotation": 90,
+          "x": -410,
+          "y": -77,
+          "id": 1197
+        },
+        {
+          "type": "text",
+          "align": "left",
+          "fontSize": 25,
+          "color": "#ffffff",
+          "opacity": 100,
+          "style": "outline",
+          "rotation": 0,
+          "text": "Cones go North in tower, where inner boss ring\nmeets tower edge.\nDefamations go South in tower, towards other tower.\n\nHelpers bait Kefka attacks;\nTank always goes NW on boss outer ring.\nMdps always goes NE on boss outer ring.\nHealer/Rdps baits cones around marker West/East\nIf number - far corner, if letter - in front towards kefka",
+          "stroke": "#40352c",
+          "x": 108,
+          "y": -237,
+          "id": 1198
+        },
+        {
+          "type": "cone",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 32,
+          "coneAngle": 90,
+          "rotation": 0,
+          "x": -206,
+          "y": -131,
+          "id": 1199
+        },
+        {
+          "type": "circle",
+          "color": "#fc972b",
+          "opacity": 35,
+          "radius": 20,
+          "x": -206,
+          "y": -176,
+          "id": 1200
+        },
+        {
+          "type": "party",
+          "image": "/actor/tank.png",
+          "name": "Tank",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": -202,
+          "y": -268,
+          "id": 1201
+        },
+        {
+          "type": "party",
+          "image": "/actor/melee.png",
+          "name": "Melee DPS",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": -202,
+          "y": -298,
+          "id": 1202
+        },
+        {
+          "type": "party",
+          "image": "/actor/ranged.png",
+          "name": "Ranged DPS",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": -211,
+          "y": -343,
+          "id": 1203
+        },
+        {
+          "type": "marker",
+          "name": "Waymark A",
+          "image": "/marker/waymark_a.png",
+          "shape": "circle",
+          "color": "#f13b66",
+          "opacity": 100,
+          "width": 42,
+          "height": 42,
+          "rotation": 0,
+          "x": -381,
+          "y": -342,
+          "id": 1204
+        },
+        {
+          "type": "marker",
+          "name": "Waymark 3",
+          "image": "/marker/waymark_3.png",
+          "shape": "square",
+          "color": "#65b3ea",
+          "opacity": 100,
+          "width": 42,
+          "height": 42,
+          "rotation": 45,
+          "x": -238,
+          "y": -342,
+          "id": 1206
+        },
+        {
+          "type": "party",
+          "image": "/actor/healer.png",
+          "name": "Healer",
+          "status": [],
+          "width": 32,
+          "height": 32,
+          "opacity": 100,
+          "rotation": 0,
+          "x": -341,
+          "y": -343,
+          "id": 1207
+        },
+        {
+          "type": "circle",
+          "color": "#ff0000",
+          "opacity": 35,
+          "radius": 18,
+          "x": -293,
+          "y": -343,
+          "id": 1209
+        }
+      ],
+      "customArena": {
+        "shape": "none",
+        "width": 600,
+        "height": 600,
+        "padding": 120,
+        "grid": {
+          "type": "none"
+        }
+      }
     }
   ]
 }
